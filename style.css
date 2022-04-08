@@ -623,5 +623,5 @@ footer {
   align-items: center;
   color: #fff;
   border-radius: .3rem;
-  box-shadow: 0 .1rem .6rem rgb(85, 85, 85);
+  box-shadow: 0 .1rem .6rem rgba(85, 85, 85, 0.57);
 }
